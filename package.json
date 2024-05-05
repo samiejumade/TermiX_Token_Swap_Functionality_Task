@@ -1,0 +1,22 @@
+{
+  "name": "token_swap_functionality",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "type": "module"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ethersproject/providers": "^5.7.2",
+    "@uniswap/sdk-core": "^5.0.0",
+    "@uniswap/smart-order-router": "^3.28.8",
+    "@uniswap/v3-periphery": "^1.4.4",
+    "@uniswap/v3-sdk": "^3.11.1",
+    "dotenv": "^16.4.5",
+    "ethers": "^5.5.2"
+  }
+}
